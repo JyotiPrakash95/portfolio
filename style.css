@@ -300,7 +300,7 @@ li {
   border: 1px solid var(--green);
   border-radius: 3px;
   display: inline-block;
-  margin-top: 40px;
+  margin-top: 10px;
   position: relative;
 }
 .img-div::after {
